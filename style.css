@@ -2,13 +2,19 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background-color: #F5F4F0;
+}
+
 #page{
     width: 1120px;
     margin: 88px auto 65px;
 }
 
 span{
-
+    color: #E1624F;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 img{
@@ -20,4 +26,8 @@ img{
     height: 1px;
     margin: 36px 0;
     background-color: #d9d9d9;
+}
+
+ul{
+    list-style: disc;
 }
