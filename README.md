@@ -15,6 +15,9 @@ Bem-vindo ao repositório do **Discover about Busan**! Este site foi criado para
 - **CSS3**: Estilização e design responsivo.
 - **Google Fonts**: Tipografias personalizadas.
 
+## Sobre o Projeto
+Este projeto foi desenvolvido como parte do curso **Fullstack** da **Rocketseat**.
+
 ## Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no projeto.
 
